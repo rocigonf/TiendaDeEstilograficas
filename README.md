@@ -13,7 +13,7 @@ Nos encontramos en el índice. En esta parte del [código](web/index.jsp#L31) po
 
 ![imagen](https://github.com/rocigonf/TiendaDeEstilograficas/assets/116120484/3891df91-05ba-4939-b0ff-e660eff5d0fa)
 
-Si haces click sobre las banderas en la página principal, te llevará a [cambia-idioma](web/cambia-idioma.jsp), crea la sesión para recordar el idioma seleccionado y te redirige al índice con el idioma cambiado.
+Si haces click sobre las banderas en la página principal, te llevará a [cambia-idioma](web/cambia-idioma.jsp), donde crea la sesión para recordar el idioma seleccionado y te redirige al índice con el idioma cambiado.
 
 En la clase [Carrito](src/java/clases/Carrito.java), he creado un método toString() para serializar los elementos del carrito, y un constructor para deserializarlos.
 
