@@ -25,4 +25,14 @@ En la clase [Carrito](src/java/clases/Carrito.java), he creado un método toStri
 
 ![imagen](https://github.com/rocigonf/TiendaDeEstilograficas/assets/116120484/85a6803a-98c8-49bd-be8a-cc407f200f18)
 
+
 *En progreso*
+[Compra](web/compra.jsp)
+
+![imagen](https://github.com/rocigonf/TiendaDeEstilograficas/assets/116120484/f0e1b48e-d833-4cf1-b36a-a3befe3b16ea)
+
+[Elimina](web/elimina.jsp)
+
+![imagen](https://github.com/rocigonf/TiendaDeEstilograficas/assets/116120484/0d44ac75-c47c-458e-ae2c-e991231845a1)
+
+
